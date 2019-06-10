@@ -1,0 +1,84 @@
+﻿  Main.cpp
+  Window.cpp
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(29,41): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(29,41): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(29,41): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(29,41): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(29,41): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(33,49): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(33,49): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(33,49): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(33,49): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(33,49): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(37,45): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(37,45): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(37,45): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(37,45): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(37,45): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(41,47): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(41,47): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(41,47): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(41,47): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(41,47): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(45,46): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(45,46): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(45,46): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(45,46): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(45,46): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(49,49): warning C4305:  'argumento': truncamiento de 'double' a 'T'
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(49,49): warning C4305:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(49,49): warning C4305:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(49,49): warning C4305:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(49,49): warning C4305:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,62): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,62): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,62): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,62): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,62): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,49): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,49): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,49): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,49): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(401,49): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,60): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,60): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,60): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,60): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,60): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,47): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,47): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,47): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,47): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(407,47): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,61): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,61): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,61): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,61): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,61): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,48): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,48): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,48): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,48): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(413,48): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,62): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,62): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,62): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,62): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,62): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,49): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,49): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,49): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,49): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(419,49): warning C4244:         ]
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,62): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,62): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,62): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,62): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,62): warning C4244:         ]
+  Generando código...
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,49): warning C4244:  'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,49): warning C4244:         with
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,49): warning C4244:         [
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,49): warning C4244:             T=float
+C:\Users\Joshua\Documents\git\Sobakon\Sobakon\Window.cpp(425,49): warning C4244:         ]
+  Sobakon.vcxproj -> C:\Users\Joshua\Documents\git\Sobakon\Debug\Sobakon.exe
